@@ -164,7 +164,7 @@
 	<repositories>
     <repository>
       <id>${v-profile}</id>
-      <url><http://34.242.75.96:8081/repository/v-profile/>
+      <url><http://34.242.75.96:8081/repository/v-profile//>
     </repository>
   </repositories>
 </project>
